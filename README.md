@@ -1,4 +1,4 @@
-# ForTheLoveOfSake
+# For The Love of Sake
 Got a game idea I've wanted to do for a long time... so now I'm making a mecha/dogfighting/rpgesque game. No idea how to achieve most 
 of the features I want but hey that's game dev... so here goes the next year or two of my life.
 Game revolves around the player choosing an militaristic or futuristic aircraft such as an F-15 or a UFO and basically dogfighting against
